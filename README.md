@@ -87,5 +87,3 @@ making it the best choice for this dataset.
 | **Actual Positive** | 52                   | 1                      |
 | **Actual Negative** | 0                    | 90                     |
 
-### Visualization
-![Confusion Matrix - RBF SVM](images/confusion_matrix_rbf_svm.png)
